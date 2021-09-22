@@ -1,0 +1,6 @@
+export const DrawerTypes = {
+    SHOW_DRAWER: 'SHOW_DRAWER',
+    HIDE_DRAWER: 'HIDE_DRAWER',
+    OPEN_WITH_FORM: 'OPEN_WITH_FORM',
+    SET_SUBMIT: 'SET_SUBMIT',
+}

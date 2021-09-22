@@ -1,0 +1,6 @@
+$bg-active: white;
+$color-active: #333;
+.active_link {
+    background-color: $bg-active!important;
+    color: $color-active!important;
+}
